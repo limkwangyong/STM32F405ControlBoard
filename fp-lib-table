@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name robot_regulator)(type KiCad)(uri /Users/kwangyonglim/Documents/STM32F405ControlBoard/lib/Kicad)(options "")(descr ""))
+  (lib (name Kicad)(type KiCad)(uri ${KIPRJMOD}/lib/Kicad)(options "")(descr ""))
+)
